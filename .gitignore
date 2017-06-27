@@ -1,2 +1,9 @@
 .ipynb_checkpoints/
 .venv/
+.idea/
+.idea/bioblend-tutorial.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+.idea/.vcs.xml
+venv/
